@@ -172,6 +172,8 @@ Specific model made for the PMW3610 PCB (for eg. bluetooth builds). Made for Zir
 
 ![](../../pics/1au.jpg)
 
+Credit: Vzhao-L on Github.
+
 # Charybdis
 
 ## Palm Rest
